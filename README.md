@@ -1,1 +1,9 @@
-# Homework1
+OUTPUT OF THE CODE :
+
+INSTA  
+RAM  
+STAG  
+INSTA  
+RAM  
+STAG  
+MARGATSNI  
